@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Cesar Magana De Leon</h1>
 <h3 align="center">A engineering student @ Texas A&M and current SWE Intern @ Google</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immzek" alt="immzek" /></a> </p>
-
 - Currently interning @ Google, Core ML/Tensorflow Team **Google STEP 2023 Intern**
 
 <h3 align="left">Connect with me:</h3>
