@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Cesar Magana De Leon</h1>
-<h3 align="center">A engineering student @ Texas A&M and current SWE Intern @ Google</h3>
+<h3 align="center"> Engineering student @ Texas A&M and previous SWE Intern @ Google</h3>
 
 - Previous 23' intern @ Google, Core ML/Tensorflow Team **Google STEP 2023 Intern**
 
