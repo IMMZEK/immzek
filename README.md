@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I'm Cesar Magana De Leon</h1>
 <h3 align="center"> Engineering student @ Texas A&M and previous SWE Intern @ Google</h3>
 
+- Previous 25' intern @ Google, Gemini Code Assist Team **Google SWE 2025 Intern**
 - Previous 24' intern @ Google, YouTube Team **Google SWE 2024 Intern**
 - Previous 23' intern @ Google, Core ML/Tensorflow Team **Google STEP 2023 Intern**
 
